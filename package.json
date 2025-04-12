@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.0",
     "framer-motion": "^12.6.5",
     "react": "^19.0.0",
     "react-bits": "^1.0.5",
